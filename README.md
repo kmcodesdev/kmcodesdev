@@ -2,5 +2,5 @@
 
 
 - 🌐 Contributing to the development of a new open & decentralized system.
-- 💻 Smart contract Development, Defi application, Substrate, Rust, Cybersecurity.
+- 💻 Computer Science, Smart contract Development, Defi application, Substrate, Rust, Cybersecurity.
 
